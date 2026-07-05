@@ -1,1 +1,0 @@
-# -1-Mine-Per-Click-Script
